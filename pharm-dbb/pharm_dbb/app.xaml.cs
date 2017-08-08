@@ -194,7 +194,7 @@ namespace pharm_dbb
 
            
             var st = "\t\u2022 This app is intended for use by Health and Social Care Professionals. ";
-            st = st + "It is meant to be used as an aid  for decision making and does not replace clinical judgement\r\n";
+            st = st + "It is meant to be used as an aid for decision making and does not replace clinical judgement\r\n";
             st = st + "\t\u2022 Click on each button and information section to see more guidance\r\n ";
             st = st + "\t\u2022 This app will not provide enough information to adequately document the decision or decision making process, it is essential that you document all decisions, how they were made and who else was involved\r\n ";
             st = st + "\t\u2022 This app is an adjunct to your organisations policies\r\n ";
